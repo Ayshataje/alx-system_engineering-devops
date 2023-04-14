@@ -1,1 +1,1 @@
-echo shell basics
+shell basics
